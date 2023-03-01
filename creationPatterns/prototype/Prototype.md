@@ -20,6 +20,76 @@ If we have an existing object which contains many fields and several configurati
 
 When we need an object like the one we have configured. we just need to clone a prototype instead of create a new object.
 
+### Code in Java
+
+###### Shape: which has the clone() method.
+```java
+public abstract class Shape {
+    public int x;
+    public int y;
+    public String color;
+
+    public Shape(){}
+    
+    public Shape(Shape shape) {
+
+        if(shape != null){
+            this.x = shape.x;
+            this.y = shape.y;
+            this.color = shape.color;
+        }
+    }
+    public abstract Shape clone();
+}
+```
+
+###### Rectangle: which extends from Shape
+```java
+public class Rectangle extends Shape {
+    public int width;
+    public int height;
+
+    public Rectangle(){}
+
+    public Rectangle(Rectangle rectangle){
+        super(rectangle);
+        if(rectangle != null){
+            this.width = rectangle.width;
+            this.height = rectangle.height;
+        }
+    }
+
+    @Override
+    public Shape clone() {
+        return new Rectangle(this);
+    }
+
+    @Override
+    public String toString() {
+
+        return "Rectangle [width=" + width + ", height=" + height + ", color="+ color +"]";
+    }
+}
+```
+
+###### Main Class.
+```java
+public static void main(String[] args){
+        System.out.println("============PROTOTYPE PATTERN============");
+        Rectangle rectangle = new Rectangle();
+        rectangle.width = 10;
+        rectangle.height = 20;
+        rectangle.color = "blue";
+
+        Rectangle rectangle2 = (Rectangle) rectangle.clone();
+
+        System.out.println("> ORIGINAL OBJECT:");
+        System.out.println(rectangle.toString());
+        System.out.println("> COPY OBJECT:");
+        System.out.println(rectangle2.toString());
+    }
+```
+
 ### Pros and Cons
 
 | Pros |Cons |
