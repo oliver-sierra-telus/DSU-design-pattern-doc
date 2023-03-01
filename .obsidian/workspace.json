@@ -20,27 +20,19 @@
             }
           },
           {
-            "id": "8dd3125fe1624b27",
+            "id": "391cfd441ab0b5a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creationPatterns/Creation Patterns.md",
+                "file": "creationPatterns/prototype/Prototype.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "391cfd441ab0b5a0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "creationPatterns/prototype/Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "creationPatterns/prototype/Prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "creationPatterns/prototype/Prototype.md"
+              }
             }
           }
         ]
@@ -165,13 +161,14 @@
   },
   "active": "391cfd441ab0b5a0",
   "lastOpenFiles": [
-    "creationPatterns/factoryMethod/Factory Method.md",
-    "creationPatterns/Creation Patterns.md",
+    "creationPatterns/prototype/prototype.svg",
     "README.md",
+    "creationPatterns/prototype/Prototype.md",
+    "creationPatterns/Creation Patterns.md",
+    "creationPatterns/factoryMethod/Factory Method.md",
     "creationPatterns/abstractFactory/Abstract Factory.md",
     "behaviorPatterns/Behavior Patterns.md",
     "structuralPatterns/Structural Patterns.md",
-    "creationPatterns/prototype/Prototype.md",
     "creationPatterns/singleton/Singleton.md",
     "creationPatterns/builder/Builder.md",
     "Untitled.md"
