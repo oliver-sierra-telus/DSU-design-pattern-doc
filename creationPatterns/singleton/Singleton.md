@@ -12,10 +12,12 @@ It has two steps to implement the pattern.
 - The constructor will be private, due to prevent other objects from using the `new` operator.
 - Create a static creation method how will be acts as a constructor. Under the hood, this methods calls the private constructor to create an object and saves it in a static filed.
 
+![text](./Singleton.svg)
+
 ## Coding (Java)
 
 First part of the code.
-```
+```Java
 public class SingleObject {
 
    private static SingleObject instance = null;
@@ -39,14 +41,14 @@ public class SingleObject {
 ```
 
 Second part of the code.
-```
+```Java
 public class UsingPatternDemo {
    
    public static void main(String[] args) {
       SingleObject myObject = SingleObject.getInstance();
+      myObject.showMessage();
    }
    
-   myObject.showMessage();
 }
 ```
 
@@ -56,4 +58,4 @@ public class UsingPatternDemo {
 - You gain a global access point to that instance.
 - The singleton object is initialized only when it's requested for the firs time.
 **Cons:**
-- Cloning commplex objects that have circular references might be very tricky.
+- Cloning complex objects that have circular references might be very tricky.
