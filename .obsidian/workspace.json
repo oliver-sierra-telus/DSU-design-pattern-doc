@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2d68d9f6211d9e59",
+        "id": "1d4b3bba206f430f",
         "type": "tabs",
         "children": [
           {
-            "id": "889dd1d85ff963b1",
+            "id": "805032a2ebedf3ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "creationPatterns/factoryMethod/Factory Method.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "creationPatterns/factoryMethod/Factory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "creationPatterns/factoryMethod/Factory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "creationPatterns/factoryMethod/Factory Method.md"
+              }
             }
           }
         ]
@@ -138,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "889dd1d85ff963b1",
+  "active": "805032a2ebedf3ba",
   "lastOpenFiles": [
-    "creationPatterns/Creation Patterns.md",
-    "structuralPatterns/Structural Patterns.md",
-    "README.md",
+    "creationPatterns/prototype/Prototype.md",
+    "creationPatterns/prototype/prototype.svg",
+    "creationPatterns/singleton/Singleton.svg",
+    "creationPatterns/singleton/Singleton.md",
     "creationPatterns/factoryMethod/Factory Method.md",
+    "README.md",
+    "creationPatterns/Creation Patterns.md",
     "creationPatterns/abstractFactory/Abstract Factory.md",
     "behaviorPatterns/Behavior Patterns.md",
-    "creationPatterns/prototype/Prototype.md",
-    "creationPatterns/singleton/Singleton.md",
+    "structuralPatterns/Structural Patterns.md",
     "creationPatterns/builder/Builder.md",
     "Untitled.md"
   ]
