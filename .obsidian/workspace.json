@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "facc2f20c3f815de",
+        "id": "1d4b3bba206f430f",
         "type": "tabs",
         "children": [
           {
-            "id": "3c012f5534ffa835",
+            "id": "805032a2ebedf3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "creationPatterns/prototype/Prototype.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8dd3125fe1624b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creationPatterns/Creation Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "391cfd441ab0b5a0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "creationPatterns/prototype/Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "creationPatterns/prototype/Prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "creationPatterns/prototype/Prototype.md"
+              }
             }
           }
         ]
@@ -163,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "391cfd441ab0b5a0",
+  "active": "7ae3264165c1ee4f",
   "lastOpenFiles": [
+    "creationPatterns/prototype/prototype.svg",
+    "creationPatterns/prototype/Prototype.md",
+    "creationPatterns/singleton/Singleton.svg",
+    "creationPatterns/singleton/Singleton.md",
     "creationPatterns/factoryMethod/Factory Method.md",
-    "creationPatterns/Creation Patterns.md",
     "README.md",
+    "creationPatterns/Creation Patterns.md",
     "creationPatterns/abstractFactory/Abstract Factory.md",
     "behaviorPatterns/Behavior Patterns.md",
     "structuralPatterns/Structural Patterns.md",
-    "creationPatterns/prototype/Prototype.md",
-    "creationPatterns/singleton/Singleton.md",
     "creationPatterns/builder/Builder.md",
     "Untitled.md"
   ]
