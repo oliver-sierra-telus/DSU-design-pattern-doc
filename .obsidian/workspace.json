@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creationPatterns/prototype/Prototype.md",
+                "file": "creationPatterns/factoryMethod/Factory Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creationPatterns/prototype/Prototype.md",
+                "file": "creationPatterns/factoryMethod/Factory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creationPatterns/prototype/Prototype.md",
+                "file": "creationPatterns/factoryMethod/Factory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creationPatterns/prototype/Prototype.md"
+                "file": "creationPatterns/factoryMethod/Factory Method.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ae3264165c1ee4f",
+  "active": "805032a2ebedf3ba",
   "lastOpenFiles": [
-    "creationPatterns/prototype/prototype.svg",
     "creationPatterns/prototype/Prototype.md",
+    "creationPatterns/prototype/prototype.svg",
     "creationPatterns/singleton/Singleton.svg",
     "creationPatterns/singleton/Singleton.md",
     "creationPatterns/factoryMethod/Factory Method.md",
