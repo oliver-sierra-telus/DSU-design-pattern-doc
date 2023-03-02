@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4b3bba206f430f",
+        "id": "7bd57f200dd0b203",
         "type": "tabs",
         "children": [
           {
-            "id": "805032a2ebedf3ba",
+            "id": "f3535304bc1f57bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md",
+                "file": "structuralPatterns/composite/Composite.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1750f202165b528",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md",
+                "file": "structuralPatterns/composite/Composite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md",
+                "file": "structuralPatterns/composite/Composite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md"
+                "file": "structuralPatterns/composite/Composite.md"
               }
             }
           }
@@ -146,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "805032a2ebedf3ba",
+  "active": "7ae3264165c1ee4f",
   "lastOpenFiles": [
+    "structuralPatterns/composite/composite.svg",
+    "structuralPatterns/composite/Composite.md",
+    "structuralPatterns/composite",
     "creationPatterns/prototype/Prototype.md",
     "creationPatterns/prototype/prototype.svg",
     "creationPatterns/singleton/Singleton.svg",
