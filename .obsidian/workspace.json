@@ -10,13 +10,15 @@
           {
             "id": "9f6eab507319e062",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "structuralPatterns/adapter/Adapter.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -148,6 +150,7 @@
   },
   "active": "9f6eab507319e062",
   "lastOpenFiles": [
+    "Adapter.pdf",
     "structuralPatterns/adapter/adapter-pattern.svg",
     "structuralPatterns/adapter/Adapter.md",
     "creationPatterns/singleton/Singleton.md",
