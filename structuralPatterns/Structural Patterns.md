@@ -5,3 +5,6 @@
 - Composite
 - Decorator
 - Facade
+
+- Flyweight
+- Proxy
