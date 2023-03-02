@@ -144,6 +144,9 @@
   },
   "active": "7ae3264165c1ee4f",
   "lastOpenFiles": [
+    "structuralPatterns/adapter/Adapter.md",
+    "structuralPatterns/adapter/adapter-pattern.svg",
+    "structuralPatterns/adapter",
     "structuralPatterns/decorator/Result.png",
     "structuralPatterns/decorator/decorator.PNG",
     "structuralPatterns/decorator/Decorator.md",
