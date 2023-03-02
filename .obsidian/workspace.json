@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4b3bba206f430f",
+        "id": "1720b134e436d503",
         "type": "tabs",
         "children": [
           {
-            "id": "805032a2ebedf3ba",
+            "id": "9f6eab507319e062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md",
+                "file": "structuralPatterns/adapter/Adapter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md",
+                "file": "structuralPatterns/adapter/Adapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md",
+                "file": "structuralPatterns/adapter/Adapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creationPatterns/factoryMethod/Factory Method.md"
+                "file": "structuralPatterns/adapter/Adapter.md"
               }
             }
           }
@@ -146,19 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "805032a2ebedf3ba",
+  "active": "9f6eab507319e062",
   "lastOpenFiles": [
-    "creationPatterns/prototype/Prototype.md",
-    "creationPatterns/prototype/prototype.svg",
-    "creationPatterns/singleton/Singleton.svg",
+    "structuralPatterns/adapter/adapter-pattern.svg",
+    "structuralPatterns/adapter/Adapter.md",
     "creationPatterns/singleton/Singleton.md",
+    "creationPatterns/singleton/Singleton.svg",
+    "structuralPatterns/Structural Patterns.md",
+    "creationPatterns/prototype/Prototype.md",
+    "structuralPatterns/adapter",
+    "creationPatterns/abstractFactory/Abstract Factory.md",
     "creationPatterns/factoryMethod/Factory Method.md",
+    "creationPatterns/builder/Builder.md",
+    "creationPatterns/prototype/prototype.svg",
     "README.md",
     "creationPatterns/Creation Patterns.md",
-    "creationPatterns/abstractFactory/Abstract Factory.md",
     "behaviorPatterns/Behavior Patterns.md",
-    "structuralPatterns/Structural Patterns.md",
-    "creationPatterns/builder/Builder.md",
     "Untitled.md"
   ]
 }
