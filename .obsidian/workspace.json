@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e2ffc01f1fbe04",
+        "id": "8bc62420be2c64cc",
         "type": "tabs",
         "children": [
           {
-            "id": "b69d2bddcc8b03ce",
+            "id": "07d6a2ff78640d19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "structuralPatterns/flyweight/Flyweight.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structuralPatterns/Structural Patterns.md",
+                "file": "structuralPatterns/flyweight/Flyweight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structuralPatterns/Structural Patterns.md",
+                "file": "structuralPatterns/flyweight/Flyweight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structuralPatterns/Structural Patterns.md"
+                "file": "structuralPatterns/flyweight/Flyweight.md"
               }
             }
           }
@@ -142,17 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ae3264165c1ee4f",
+  "active": "07d6a2ff78640d19",
   "lastOpenFiles": [
+    "structuralPatterns/flyweight/flyweight.svg",
     "structuralPatterns/adapter/Adapter.md",
+    "structuralPatterns/decorator/Decorator.md",
+    "structuralPatterns/flyweight/Flyweight.md",
+    "structuralPatterns/flyweight/flyweight.wsd",
+    "structuralPatterns/composite/Composite.md",
+    "behaviorPatterns/Behavior Patterns.md",
+    "structuralPatterns/flyweight",
     "structuralPatterns/adapter/adapter-pattern.svg",
     "structuralPatterns/adapter",
+    "structuralPatterns/Structural Patterns.md",
     "structuralPatterns/decorator/Result.png",
     "structuralPatterns/decorator/decorator.PNG",
-    "structuralPatterns/decorator/Decorator.md",
     "structuralPatterns/decorator",
     "structuralPatterns/composite/composite.svg",
-    "structuralPatterns/composite/Composite.md",
     "structuralPatterns/composite",
     "structuralPatterns/Bridge/Solution.PNG",
     "structuralPatterns/Bridge/shapeDiagram.PNG",
@@ -167,8 +177,6 @@
     "README.md",
     "creationPatterns/Creation Patterns.md",
     "creationPatterns/abstractFactory/Abstract Factory.md",
-    "behaviorPatterns/Behavior Patterns.md",
-    "structuralPatterns/Structural Patterns.md",
     "creationPatterns/builder/Builder.md",
     "Untitled.md"
   ]
