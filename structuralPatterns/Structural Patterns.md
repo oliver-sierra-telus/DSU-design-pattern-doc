@@ -1,2 +1,4 @@
 # Structural Patterns
 
+- Flyweight
+- Proxy
