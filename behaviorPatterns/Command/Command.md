@@ -1,26 +1,18 @@
 
-Command pattern is a data driven design pattern and falls under behavioral pattern category. A request is wrapped under an object as command and passed to invoker object. Invoker object looks for the appropriate object which can handle this command and passes the command to the corresponding object which executes the command.
-
-The **Command** pattern is a behavioural design pattern, in which an abstraction exists between an object that invokes a command, and the object that performs it.
-
-E.g., a button will call the **Invoker**, that will call a pre-registered **Command**, that the **Receiver** will perform.
+The **Command** pattern is a behavioural design pattern, in which an abstraction exists between an object that invokes a command, and the object that performs it. *A request is wrapped under an object as command and passed to invoker object.* Invoker object looks for the appropriate object which can handle this command and passes the command to the corresponding object which executes the command.
 
 A Concrete Class will delegate a request to a command object, instead of implementing the request directly.
 
 Using a command design pattern allows you to separate concerns and to solve problems of the concerns independently of each other.
 
-E.g., logging the execution of a command and its outcome.
+E.g., a button will call the **Invoker**, that will call a pre-registered **Command**, that the **Receiver** will perform.
 
-The command pattern is a good solution for implementing UNDO/REDO functionality into your application.
+# Terminology
 
-Problem:
-Need to issue requests to objects without knowing anything about the operation being requested or the receiver of the request..
-
-Solution:
-A Concrete Class will delegate a request to a command object, instead of implementing the request directly. Using a command design pattern allows you to separate concerns and to solve problems of the concerns independently of each other.
-
-
-![text](./Capture.png)
+-   **Receiver**: The object that will receive and execute the command.
+-   **Invoker**: The object that sends the command to the receiver. E.g., A button.
+-   **Command Object**: Itself, an object, that implements an execute, or action method, and contains     all required information to execute it.
+-   **Client**: The application or component that is aware of the Receiver, Invoker and Commands.
 
 ### Check list
 
@@ -32,19 +24,21 @@ A Concrete Class will delegate a request to a command object, instead of impleme
 
 Command objects can be thought of as "tokens" that are created by one client that knows what need to be done, and passed to another client that has the resources for doing it.
 
-# Terminology
 
--   **Receiver**: The object that will receive and execute the command.
--   **Invoker**: The object that sends the command to the receiver. E.g., A button.
--   **Command Object**: Itself, an object, that implements an execute, or action method, and contains     all required information to execute it.
--   **Client**: The application or component that is aware of the Receiver, Invoker and Commands.
+Problem:
+Need to issue requests to objects without knowing anything about the operation being requested or the receiver of the request..
+
+Solution:
+A Concrete Class will delegate a request to a command object, instead of implementing the request directly. Using a command design pattern allows you to separate concerns and to solve problems of the concerns independently of each other.
+
+![text](./pattern.png)
+
+
+![text](./Capture.png)
 
 Example:
 
-  
-
-```
-
+```java
 // RECEIVER / REQUEST
 public class Cuenta {
     private int id;
@@ -115,10 +109,9 @@ public class Invoker {
     }
 }
 
-  
-
 public class Main {
     public static void main(String[] args) {
+    
         Cuenta cuenta = new Cuenta(1, 200);
         
         IOperacion opDeposito = new DepositoImpl(cuenta, 100);
@@ -132,6 +125,10 @@ public class Main {
 }
 ```
 
+``` 
+[COMANDO DEPOSITAR] Cuenta: 1 saldo  300.0
+[COMANDO RETIRAR] Cuenta: 1 saldo  250.0
+```
 **Advantages:**
 
 -   Makes our code extensible as we can add new commands without changing existing code.

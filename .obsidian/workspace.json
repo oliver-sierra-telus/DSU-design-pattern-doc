@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "918e88568996c548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "behaviorPatterns/Command/Command.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "27f99ea49423e3b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structuralPatterns/Bridge/Bridge pattern.md",
+                "file": "behaviorPatterns/Command/Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 240.5
   },
   "right": {
     "id": "a1750f202165b528",
@@ -158,23 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "918e88568996c548",
+  "active": "7ae3264165c1ee4f",
   "lastOpenFiles": [
-    "structuralPatterns/proxy/Proxy.md",
-    "structuralPatterns/composite/Composite.md",
+    "behaviorPatterns/Command/pattern.PNG",
     "structuralPatterns/Bridge/Bridge pattern.md",
-    "behaviorPatterns/Command/Command.md",
-    "behaviorPatterns/Behavior Patterns.md",
-    "behaviorPatterns/Command/Capture.PNG",
-    "behaviorPatterns/Command",
-    "structuralPatterns/adapter/Adapter.md",
     "structuralPatterns/proxy/proxy.svg",
+    "structuralPatterns/proxy/Proxy.md",
     "structuralPatterns/proxy",
-    "creationPatterns/builder/builder.svg",
     "structuralPatterns/composite/composite.svg",
+    "structuralPatterns/composite/Composite.md",
     "structuralPatterns/composite",
+    "structuralPatterns/adapter/Adapter.md",
     "structuralPatterns/adapter/adapter-pattern.svg",
     "structuralPatterns/adapter",
+    "creationPatterns/builder/builder.svg",
+    "behaviorPatterns/Command/Capture.PNG",
+    "behaviorPatterns/Command/Command.md",
+    "behaviorPatterns/Command",
+    "behaviorPatterns/Behavior Patterns.md",
     "structuralPatterns/Bridge/Bridge.PNG",
     "structuralPatterns/decorator/Decorator.md",
     "structuralPatterns/Bridge/Solution.PNG",
