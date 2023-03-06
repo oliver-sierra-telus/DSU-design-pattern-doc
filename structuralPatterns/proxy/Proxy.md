@@ -33,6 +33,9 @@ The creation of an intermediary object that represents or replaces the original 
 We have a *Product* class, which implements a POJO (Plain Old Java Object) and a *ProductDAO* interface in charge of defining the persistence methods to be implemented to take the business objects for Product to the database. The interface is implemented by the *ProductDAOImpl* class, which is in charge of the "mocked" logic of saving to the database. And on the other hand, the class that works as a Proxy called *ProductDAOProxy*, which of course also implements the interface so that both objects have the same methods.
 
 The *ProductDAOProxy* class adds additional logic not related to the business of the DAO implementation directly.
+
+[Source code](/structuralPatterns/proxy/src/)
+
 ```java
 public class Product{
     private Long id;
