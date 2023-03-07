@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "behaviorPatterns/Command/Command.md",
+                "file": "behaviorPatterns/State/State pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "behaviorPatterns/Command/Command.md",
+                "file": "behaviorPatterns/State/State pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "behaviorPatterns/Command/Command.md",
+                "file": "behaviorPatterns/State/State pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "behaviorPatterns/Command/Command.md"
+                "file": "behaviorPatterns/State/State pattern.md"
               }
             }
           }
@@ -148,34 +148,38 @@
   },
   "active": "27f99ea49423e3b2",
   "lastOpenFiles": [
+    "behaviorPatterns/Command/Command.md",
+    "structuralPatterns/decorator/Capture.PNG",
+    "behaviorPatterns/strategy/Strategy.PNG",
+    "behaviorPatterns/strategy/Strategy.md",
+    "behaviorPatterns/strategy",
+    "behaviorPatterns/observer/src/YoutubeChannel.java",
+    "behaviorPatterns/observer/src/YouTubeApp.java",
+    "behaviorPatterns/observer/src/Subscriber.java",
+    "behaviorPatterns/observer/src/GenericSubscriber.java",
+    "behaviorPatterns/observer/src",
+    "behaviorPatterns/observer/observer.svg",
+    "behaviorPatterns/observer/Observer.md",
+    "behaviorPatterns/observer",
+    "behaviorPatterns/memento/Memento.PNG",
+    "behaviorPatterns/memento/Memento.md",
+    "behaviorPatterns/memento",
+    "behaviorPatterns/Interpreter/src/OperationExpression.java",
+    "behaviorPatterns/Interpreter/src/NumericExpression.java",
+    "behaviorPatterns/Interpreter/interpreter.svg",
+    "behaviorPatterns/Interpreter/Interpreter.md",
+    "behaviorPatterns/Interpreter/Capture.PNG",
     "behaviorPatterns/State/states.PNG",
     "behaviorPatterns/State/State.PNG",
     "behaviorPatterns/State/State pattern.md",
-    "behaviorPatterns/State",
-    "structuralPatterns/proxy/src/ProductDAOProxy.java",
-    "structuralPatterns/proxy/src/ProductDAOImpl.java",
-    "structuralPatterns/proxy/src/ProductDAO.java",
-    "structuralPatterns/proxy/src/Product.java",
-    "structuralPatterns/proxy/src/App.java",
-    "structuralPatterns/proxy/src",
     "structuralPatterns/flyweight/flyweight.svg",
     "structuralPatterns/flyweight/Flyweight.md",
-    "structuralPatterns/flyweight",
     "behaviorPatterns/Command/pattern.PNG",
-    "behaviorPatterns/Command/Command.md",
-    "behaviorPatterns/Command/Capture.PNG",
     "structuralPatterns/Bridge/Bridge pattern.md",
-    "structuralPatterns/proxy/proxy.svg",
     "structuralPatterns/proxy/Proxy.md",
-    "structuralPatterns/proxy",
-    "structuralPatterns/composite/composite.svg",
     "structuralPatterns/composite/Composite.md",
-    "structuralPatterns/composite",
     "structuralPatterns/adapter/Adapter.md",
-    "structuralPatterns/adapter/adapter-pattern.svg",
-    "creationPatterns/builder/builder.svg",
     "behaviorPatterns/Behavior Patterns.md",
-    "structuralPatterns/Bridge/Bridge.PNG",
     "structuralPatterns/decorator/Decorator.md",
     "creationPatterns/factoryMethod/Factory Method.md",
     "structuralPatterns/ss.md",

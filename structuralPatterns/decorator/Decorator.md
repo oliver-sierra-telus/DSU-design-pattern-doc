@@ -1,7 +1,7 @@
 # Decorator
 A decorator pattern can be used to attach additional responsibilities to an object either statically or dynamically. A decorator provides an enhanced interface to the original object.
 
-In the implementation of this pattern, we prefer composition over inheritance, in that way, we can reduce the overhead of subclassing again and again for each decorating element.
+In the implementation of this pattern, it prefers composition over inheritance, in that way, we can reduce the overhead of subclassing again and again for each decorating element.
 
 ## Problem
 We need to change the functionality of an object during runtime and other instances of the same class should not affect it, therefore its behavior will be changed.
