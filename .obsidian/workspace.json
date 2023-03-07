@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4b3bba206f430f",
+        "id": "72c7c69ec57f8941",
         "type": "tabs",
         "children": [
           {
-            "id": "805032a2ebedf3ba",
+            "id": "4bb0843dbf8fd08a",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
 <<<<<<< HEAD
               "type": "markdown",
               "state": {
@@ -18,6 +19,10 @@
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> 7e07e6efe7d04202d909e19dcfd804581327e816
             }
           },
           {
@@ -104,9 +109,12 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "behaviorPatterns/memento/Memento.md",
 =======
 >>>>>>> develop
+=======
+>>>>>>> 7e07e6efe7d04202d909e19dcfd804581327e816
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +132,12 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "behaviorPatterns/memento/Memento.md",
 =======
 >>>>>>> develop
+=======
+>>>>>>> 7e07e6efe7d04202d909e19dcfd804581327e816
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +160,16 @@
             "state": {
               "type": "outline",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "state": {
                 "file": "behaviorPatterns/memento/Memento.md"
               }
 =======
               "state": {}
 >>>>>>> develop
+=======
+              "state": {}
+>>>>>>> 7e07e6efe7d04202d909e19dcfd804581327e816
             }
           }
         ]
@@ -174,6 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "8671ab0bdb7ea120",
   "lastOpenFiles": [
 <<<<<<< HEAD
@@ -208,5 +224,47 @@
 =======
 >>>>>>> develop
     "creationPatterns/builder/Builder.md"
+=======
+  "active": "4bb0843dbf8fd08a",
+  "lastOpenFiles": [
+    "behaviorPatterns/Interpreter/src/OperationExpression.java",
+    "behaviorPatterns/Interpreter/src/NumericExpression.java",
+    "behaviorPatterns/Interpreter/src/Interpreter.java",
+    "behaviorPatterns/Interpreter/src/Expression.java",
+    "behaviorPatterns/Interpreter/src/Context.java",
+    "behaviorPatterns/Interpreter/src",
+    "behaviorPatterns/Interpreter/interpreter.svg",
+    "behaviorPatterns/Interpreter/Capture.PNG",
+    "behaviorPatterns/Interpreter/Interpreter.md",
+    "behaviorPatterns/Interpreter",
+    "structuralPatterns/proxy/src/ProductDAOProxy.java",
+    "structuralPatterns/proxy/src/ProductDAOImpl.java",
+    "structuralPatterns/proxy/src/ProductDAO.java",
+    "structuralPatterns/proxy/src/Product.java",
+    "behaviorPatterns/observer/Observer.md",
+    "behaviorPatterns/observer/observer.svg",
+    "behaviorPatterns/Command/pattern.PNG",
+    "behaviorPatterns/Command/Command.md",
+    "structuralPatterns/flyweight/Flyweight.md",
+    "creationPatterns/factoryMethod/Factory Method.md",
+    "structuralPatterns/flyweight/flyweight.svg",
+    "structuralPatterns/proxy/proxy.svg",
+    "structuralPatterns/proxy/Proxy.md",
+    "structuralPatterns/decorator/Result.png",
+    "structuralPatterns/decorator/decorator.PNG",
+    "structuralPatterns/decorator/Decorator.md",
+    "structuralPatterns/composite/composite.svg",
+    "structuralPatterns/composite/Composite.md",
+    "structuralPatterns/adapter/Adapter.md",
+    "structuralPatterns/adapter/adapter-pattern.svg",
+    "structuralPatterns/Bridge/Bridge pattern.md",
+    "creationPatterns/Creation Patterns.md",
+    "creationPatterns/builder/Builder.md",
+    "creationPatterns/abstractFactory/Abstract Factory.md",
+    "README.md",
+    "behaviorPatterns/Behavior Patterns.md",
+    "Untitled.canvas",
+    "creationPatterns/prototype/Prototype.md"
+>>>>>>> 7e07e6efe7d04202d909e19dcfd804581327e816
   ]
 }
