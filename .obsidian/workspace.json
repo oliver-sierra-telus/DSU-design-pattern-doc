@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a92b83cd59368a",
+        "id": "72c7c69ec57f8941",
         "type": "tabs",
         "children": [
           {
-            "id": "c0b4225e4105043e",
+            "id": "4bb0843dbf8fd08a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "behaviorPatterns/observer/Observer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1750f202165b528",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "behaviorPatterns/observer/Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "behaviorPatterns/observer/Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "behaviorPatterns/observer/Observer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,33 +138,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0b4225e4105043e",
+  "active": "4bb0843dbf8fd08a",
   "lastOpenFiles": [
-    "behaviorPatterns/Command/pattern.PNG",
-    "behaviorPatterns/observer/src/YouTubeApp.java",
-    "behaviorPatterns/observer/src/GenericSubscriber.java",
-    "behaviorPatterns/observer/src/YoutubeChannel.java",
-    "behaviorPatterns/observer/src/Channel.java",
-    "behaviorPatterns/observer/src/Subscriber.java",
-    "behaviorPatterns/observer/src/NewsChannel.java",
-    "behaviorPatterns/observer/src",
-    "behaviorPatterns/observer/observer.svg",
-    "behaviorPatterns/observer/Observer.md",
-    "behaviorPatterns/observer",
-    "structuralPatterns/proxy/src/ProductDAOImpl.java",
+    "behaviorPatterns/Interpreter/src/OperationExpression.java",
+    "behaviorPatterns/Interpreter/src/NumericExpression.java",
+    "behaviorPatterns/Interpreter/src/Interpreter.java",
+    "behaviorPatterns/Interpreter/src/Expression.java",
+    "behaviorPatterns/Interpreter/src/Context.java",
+    "behaviorPatterns/Interpreter/src",
+    "behaviorPatterns/Interpreter/interpreter.svg",
+    "behaviorPatterns/Interpreter/Capture.PNG",
+    "behaviorPatterns/Interpreter/Interpreter.md",
+    "behaviorPatterns/Interpreter",
     "structuralPatterns/proxy/src/ProductDAOProxy.java",
-    "structuralPatterns/flyweight/flyweight.svg",
-    "structuralPatterns/flyweight/Flyweight.md",
+    "structuralPatterns/proxy/src/ProductDAOImpl.java",
+    "structuralPatterns/proxy/src/ProductDAO.java",
+    "structuralPatterns/proxy/src/Product.java",
+    "behaviorPatterns/observer/Observer.md",
+    "behaviorPatterns/observer/observer.svg",
+    "behaviorPatterns/Command/pattern.PNG",
     "behaviorPatterns/Command/Command.md",
-    "behaviorPatterns/Command/Capture.PNG",
-    "creationPatterns/abstractFactory/Abstract Factory.md",
-    "creationPatterns/builder/Builder.md",
+    "structuralPatterns/flyweight/Flyweight.md",
     "creationPatterns/factoryMethod/Factory Method.md",
-    "creationPatterns/Creation Patterns.md",
-    "README.md",
-    "structuralPatterns/proxy/src.md",
-    "structuralPatterns/proxy/Proxy.md",
+    "structuralPatterns/flyweight/flyweight.svg",
     "structuralPatterns/proxy/proxy.svg",
+    "structuralPatterns/proxy/Proxy.md",
     "structuralPatterns/decorator/Result.png",
     "structuralPatterns/decorator/decorator.PNG",
     "structuralPatterns/decorator/Decorator.md",
@@ -181,9 +170,11 @@
     "structuralPatterns/composite/Composite.md",
     "structuralPatterns/adapter/Adapter.md",
     "structuralPatterns/adapter/adapter-pattern.svg",
-    "structuralPatterns/Bridge/Solution.PNG",
-    "structuralPatterns/Bridge/shapeDiagram.PNG",
     "structuralPatterns/Bridge/Bridge pattern.md",
+    "creationPatterns/Creation Patterns.md",
+    "creationPatterns/builder/Builder.md",
+    "creationPatterns/abstractFactory/Abstract Factory.md",
+    "README.md",
     "behaviorPatterns/Behavior Patterns.md",
     "Untitled.canvas",
     "creationPatterns/prototype/Prototype.md"
