@@ -11,6 +11,7 @@
             "id": "805032a2ebedf3ba",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "behaviorPatterns/strategy/Strategy.md",
@@ -29,6 +30,10 @@
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> develop
             }
           }
         ],
@@ -98,7 +103,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "behaviorPatterns/memento/Memento.md",
+=======
+>>>>>>> develop
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "behaviorPatterns/memento/Memento.md",
+=======
+>>>>>>> develop
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +148,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "behaviorPatterns/memento/Memento.md"
               }
+=======
+              "state": {}
+>>>>>>> develop
             }
           }
         ]
@@ -161,9 +176,16 @@
   },
   "active": "8671ab0bdb7ea120",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "structuralPatterns/decorator/Decorator.md",
     "behaviorPatterns/memento/Memento.md",
     "behaviorPatterns/strategy/Strategy.md",
+=======
+    "behaviorPatterns/strategy/Strategy.md",
+    "behaviorPatterns/memento/Memento.md",
+    "structuralPatterns/Structural Patterns.md",
+    "structuralPatterns/decorator/Decorator.md",
+>>>>>>> develop
     "behaviorPatterns/memento/Memento.PNG",
     "behaviorPatterns/memento",
     "behaviorPatterns/New folder",
@@ -181,7 +203,10 @@
     "README.md",
     "creationPatterns/Creation Patterns.md",
     "creationPatterns/abstractFactory/Abstract Factory.md",
+<<<<<<< HEAD
     "structuralPatterns/Structural Patterns.md",
+=======
+>>>>>>> develop
     "creationPatterns/builder/Builder.md"
   ]
 }
